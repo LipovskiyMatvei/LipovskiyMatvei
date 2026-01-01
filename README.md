@@ -1,6 +1,6 @@
 ### About Me
 
-I am a student at the **Faculty of Applied Mathematics and Computer Science (FPMI)**.
+I am a student at the **Faculty of Applied Mathematics and Computer Science (FAMCS)**.
 My approach to engineering is built on mathematical precision, logic, and strict discipline.
 
 - 🔭 **Focus:** Algorithms, Data Structures, Backend Development.
