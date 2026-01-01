@@ -11,10 +11,10 @@ Student at the **Faculty of Applied Mathematics and Computer Science (FAMCS)**.
 ### ⚡ Background
 
 *   **Music:**
-    *   Saxophone (Orchestra member, Live performances/Gigs).
-    *   Piano (Self-taught).
+    *   Saxophone (Orchestra member, Live performances).
+    *   Piano.
 *   **Sport:**
     *   Armwrestling & Volleyball.
-    *   Grip Sport (Captains of Crush, Standard Grippers training).
+    *   Grip Sport.
 
 ---
