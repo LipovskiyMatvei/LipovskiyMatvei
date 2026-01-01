@@ -16,7 +16,7 @@ Applying mathematical analysis to software engineering.
 
 ### 📊 Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=LipovskiyMatvei&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=LipovskiyMatvei&show_icons=true&theme=dark&hide_border=true" alt="stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipovskiyMatvei&layout=compact&theme=dark&hide_border=true" alt="languages" width="48%" />
 </p>
 
