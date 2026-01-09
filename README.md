@@ -8,7 +8,7 @@ Applying mathematical analysis to software engineering.
 ### ⚡ Background
 
 *   **Music:**
-    *   Saxophone (Orchestra member, Live performances).
+    *   Saxophonist (Featured Soloist, BSUIR Orchestra, Live performances).
     *   Piano.
 *   **Sport:**
     *   Armwrestling & Volleyball.
